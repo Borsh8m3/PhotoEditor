@@ -1,5 +1,5 @@
 # PhotoEditor
-Student project of console photo editor in C.
+Student project of console photo editor for photos in pgm formar. Written in C.
   
   -> The program only supports files located in the folder created by the program, with the same name!
   
